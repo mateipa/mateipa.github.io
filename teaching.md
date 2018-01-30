@@ -6,7 +6,7 @@ permalink: teaching
 #### Recommendations for students
 - [terrytao.wordpress.com](https://terrytao.wordpress.com/) -- Blog of [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao), a great mathematician and Fields medalist  
 - [almostsure.wordpress.com](https://almostsure.wordpress.com/) -- Blog on [stochastic calculus](https://en.wikipedia.org/wiki/Stochastic_calculus)  
-- [Paul Halmos](https://de.wikipedia.org/wiki/Paul_Halmos), _I want to be a Mathematician: An Automathography_ (Book)
+- [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos), _I want to be a Mathematician: An Automathography_ (Book)
 
 ## Present
 **Winter term 2017/18**: [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NLA17), Tutor 
