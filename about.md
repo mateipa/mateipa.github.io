@@ -5,7 +5,7 @@ title: About
 .image-left {
   display: block;
   margin-left: auto;
-  margin-right: 30px;
+  margin-right: 3%;
   float: left;
 }
 </style>
