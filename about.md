@@ -4,12 +4,12 @@ title: About
 <style type="text/css">
 .image-left {
   display: block;
-  margin-left: auto;
-  margin-right: 3%;
-  float: left;
+  margin-left: 3%;
+  margin-right: auto;
+  float: right;
 }
 </style>
-![mtp](assets/images/mtp.jpg){:height="30%" width="30%" .image-left}
+![Mario Teixeira Parente](assets/images/mtp.jpg){:height="30%" width="30%" .image-left}
 **Name**: Mario Teixeira Parente
 	
 **Address**:  
@@ -22,4 +22,10 @@ Boltzmannstraße 3
 	
 **Phone**: +49 89 289 18406  
 **E-mail**: <mailto:parente@ma.tum.de>
+
+**PGP key**: [mtp.asc](assets/files/mtp.asc)  
+**Fingerprint**: 03AA CABD 4B0D CB6C 43F5 B641 3896 7FA6 166F CAEA
+
+**Google Scholar**: [![Google Scholar](https://scholar.google.com/favicon.ico){:height="16px" width="16px"}](https://scholar.google.de/citations?user=GTpjMXwAAAAJ)  
+**ORCiD**: [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-1924-8730)
 

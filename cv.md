@@ -1,7 +1,7 @@
 ---
 title: CV
 ---
-A pdf version of my CV can be found [here]({% link assets/docs/cv.pdf %}).
+A pdf version of my CV can be found [here]({% link assets/files/cv.pdf %}).
 
 **10/2016 -- present**. [Technical University of Munich](https://www-m2.ma.tum.de/), Munich, Germany  
 PhD student in applied mathematics  
