@@ -3,7 +3,7 @@ title: Research
 ---
 ## Interests
 **Uncertainty Quantification in Inverse Problems**: Bayesian inversion, Markov chain Monte Carlo sampling, dimension reduction techniques, computational aspects
-- **Applications**: Marine biogeochmistry, porous media, plasma physics 
+- **Applications**: Marine biogeochemistry, porous media, plasma physics
 
 ## Publications
 ### Preprints
