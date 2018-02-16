@@ -23,7 +23,7 @@ Boltzmannstraße 3
 **Phone**: +49 89 289 18406  
 **E-mail**: <mailto:parente@ma.tum.de>
 
-**PGP key**: [166FCAEA.asc](assets/files/166FCAEA.asc) (ID: 166F CAEA)  
+**PGP key**: [166FCAEA.asc](assets/files/166FCAEA.asc) (ID: 166FCAEA)  
 **Fingerprint**: 03AA CABD 4B0D CB6C 43F5 B641 3896 7FA6 166F CAEA
 
 **Google Scholar**: [![Google Scholar](https://scholar.google.com/favicon.ico){:height="16px" width="16px"}](https://scholar.google.de/citations?user=GTpjMXwAAAAJ)  
