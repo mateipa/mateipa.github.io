@@ -9,10 +9,10 @@ permalink: teaching
 - [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos), _I want to be a Mathematician: An Automathography_ (Book)
 
 ## Present
-**Summer 2018**: [*Numerics for ODEs*](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NUMODE18), Tutor 
+**Summer 2018**: [*Numerics for ODEs*](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NUMODE18), TUM, Tutor 
 
 ## Past
-**Winter 2017/18**: [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NLA17), Tutor  
+**Winter 2017/18**: [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NLA17), TUM, Tutor  
 **Summer 2017**: [_Introduction to Programming_](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/Einf%fchrungInDieProgrammierung%28MA8003%29), TUM, Tutor  
 **Summer 2017**: [_Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods_](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/UQSEM), TUM  
 **Winter 2015/16**: _Stochastics_, LMU, Tutor  
