@@ -7,7 +7,7 @@ title: Research
 
 ## Publications
 ### Preprints
-3\. M. Teixeira Parente, S. Mattis, S. Gupta, C. Deusner, B. Wohlmuth.
+3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, B. Wohlmuth.
 _Efficient parameter estimation for a methane hydrate model with active subspaces_, 2018 --
 [arXiv](https://arxiv.org/abs/1801.09499)
 
