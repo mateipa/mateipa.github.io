@@ -14,10 +14,11 @@
             {% else %}
               {{ site.title | escape }}
             {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+
+						{% if site.email %}
+            	<a href="mailto:{{ site.email }}">{{ site.email }}</a>
             {% endif %}
+            </li>
         </ul>
       </div>
 
