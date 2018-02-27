@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: End of lectures in winter term 2017/18
 date: 2018-02-12
 ---
