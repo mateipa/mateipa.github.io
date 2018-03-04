@@ -13,7 +13,7 @@ date: 2018-03-03
 	border: 1px solid black;
 }
 </style>
-Yesterday, I gave a talk in our seminar at M2 about my recent research (see post [here]({{ site.baseurl }}{% link _posts/2018-01-30-meth-hydr-act-subsp.md %})), i.e. active subspaces for Bayesian inversion of a real world inference problem for a methane hydrate model.
+Yesterday, I gave a talk in our seminar at M2 about my recent research (see post [here]({{ site.baseurl }}{% link _posts/2018-01-30-meth-hydr-act-subsp.md %})), i.e. active subspaces for Bayesian inversion in a real world inference scenario involving a methane hydrate model.
 
 [![Slides](/assets/images/thumbnail-talk-obersem.png){:height="20%" width="40%" .image-right}](/assets/files/talk-obersem.pdf)
 
