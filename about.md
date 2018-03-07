@@ -10,7 +10,7 @@ title: About
 }
 </style>
 ![Mario Teixeira Parente](assets/images/mtp.jpg){:height="30%" width="30%" .image-left}
-**Name**: Mario Teixeira Parente
+**Name**: Mario <u>Teixeira Parente</u>
 	
 **Address**:  
 Chair of Numerical Mathematics (M2)  
