@@ -10,5 +10,5 @@ My name is **Mario Teixeira Parente**. Currently, I am a PhD student at the [**C
 
 My research interests lie in **Uncertainty Quantification (UQ)**, a field from applied mathematics using tools from **statistics**, **probability theory**, and **numerics**. Applications are possible wherever models are involved, be it in engineering disciplines like e.g. hydrology, in the social sciences, or physics.
 
-Feel free to rummage around! Recent posts, you can find right below this text.
+Feel free to rummage around or even [subscribe](/feed.xml)! Recent posts, you can find right below this text.
 
