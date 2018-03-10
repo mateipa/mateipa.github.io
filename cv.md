@@ -11,7 +11,7 @@ _Supervisor:_ Prof. Dr. Barbara Wohlmuth
 Postgratuate fellow in biomedical engineering (microscopic image processing)  
 _Advisor_: Joerg Bewersdorf, PhD
 
-**10/2013 -- 03/2016**. [Ludwig-Maximilians-Universität München](http://www.mathematik.uni-muenchen.de/), Munich, Germany  
+**10/2013 -- 03/2016**. [Ludwig-Maximilians-Universität München](https://www.mathematik.uni-muenchen.de/), Munich, Germany  
 Master student in mathematics  
 _Thesis_: Brownian Motion and the Dirichlet Problem ([pdf]({% link /assets/files/mthesis.pdf %}))  
 _Supervisor_: Dr. Gregor Svindland
