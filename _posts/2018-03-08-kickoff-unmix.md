@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Kickoff for UNMIX
-date: 2018-03-09
 ---
 Our IGSSE project *Uncertainties due to boundary conditions in predicting mixing in groundwater (UNMIX)* got kicked off on March 8.
 
