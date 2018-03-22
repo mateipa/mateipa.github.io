@@ -1,6 +1,7 @@
 ---
 layout: post
 title: End of lectures in winter term 2017/18
+date: 2018-02-12
 ---
 Winter term 2017/18 was my first semester involved in teaching. [Prof. Dr. Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/ElisabethUllmann) read a lecture on [introduction to numerical linear algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17), and [Laura Scarabosio](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/LauraScarabosio), [Jonas Latz](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/JonasLatz), Konstantin Riedl, and me were making the tutorials discussing exercise sheets weekly.
 

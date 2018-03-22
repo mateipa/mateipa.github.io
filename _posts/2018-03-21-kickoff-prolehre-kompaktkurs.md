@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kickoff for ProLehre compact course at MA
+date: 2018-03-21
 ---
 It is a great pleasure for me to be able to announce the kickoff for the ProLehre compact course specifically for PhD students at the math department. It will take place on March 28 at [TUM Graduate School](https://gs.tum.de/) in Garching.
 
