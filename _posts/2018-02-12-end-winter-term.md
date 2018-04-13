@@ -3,7 +3,7 @@ layout: post
 title: End of lectures in winter term 2017/18
 date: 2018-02-12
 ---
-Winter term 2017/18 was my first semester involved in teaching. [Prof. Dr. Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/ElisabethUllmann) read a lecture on [introduction to numerical linear algebra](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17), and [Laura Scarabosio](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/LauraScarabosio), [Jonas Latz](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/JonasLatz), Konstantin Riedl, and me were making the tutorials discussing exercise sheets weekly.
+Winter term 2017/18 was my first semester involved in teaching. [Prof. Elisabeth Ullmann](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/Ullmann) read a lecture on [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/Allgemeines/NLA17), and [Laura Scarabosio](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/LauraScarabosio), [Jonas Latz](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/JonasLatz), Konstantin Riedl, and me were making the tutorials discussing exercise sheets weekly.
 
 The lecture was inspired by books of Bornemann (Numerische lineare Algebra, 2016) and Deuflhard (Numerische Mathematik I, 2002). We covered the four important topics:
 - direct methods for linear systems (e.g. Gaussian elimination),
