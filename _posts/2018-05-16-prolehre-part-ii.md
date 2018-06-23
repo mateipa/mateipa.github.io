@@ -11,4 +11,4 @@ We not only discussed certain techniques for __breathing__ but also talked on ho
 
 Our trainers did a great job. They really know what they are talking about! Also, it was very funny with Pit, who has a wonderful humour talking about Pete Sampras and making silly facial expressions at the same time :).
 
-Thanks to the group and the coaches for that exciting and productive day! Looking forward to part III!
+Thanks to the group and the coaches for that exciting and productive day! Looking forward to [part III]({% link _posts/2018-06-23-prolehre-part-iii.md %})!
