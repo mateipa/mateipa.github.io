@@ -3,7 +3,7 @@ layout: post
 title: ProLehre compact course, part III
 date: 2018-06-23
 ---
-Yesterday, on Friday, June 22nd, the third part of the ProLehre compact course took place in the Math Department at Garching (see also posts for previous parts: [kickoff]({% link _posts/2018-03-21-kickoff-prolehre.md %}), [part I]({% link _posts/2018-04-28-prolehre-part-i.md %}) and [part II]({% link _posts/2018-05-16-prolehre-part-ii.md %})).
+Two days ago, on Thursday, June 21st, the third part of the ProLehre compact course took place in the Math Department at Garching (see also posts for previous parts: [kickoff]({% link _posts/2018-03-21-kickoff-prolehre.md %}), [part I]({% link _posts/2018-04-28-prolehre-part-i.md %}) and [part II]({% link _posts/2018-05-16-prolehre-part-ii.md %})).
 
 Our two teachers _Rudolf Aichner_ (ProLehre) and _Dr. Vanessa Krummeck_ (TUM) prepared a dayfilling workshop on __Testing__. The day comprised questions like
 - _What is an exam?_
