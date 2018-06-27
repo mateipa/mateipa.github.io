@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kickoff for ExaQUte
-date: 2018-06-26
+date: 2018-06-27
 ---
 My supervisor [Prof. Barbara Wohlmuth](link) asked me if I like to fly to Barcelona with her for two days for a kickoff of a recently granted EU research project. Of course, I like!
 
