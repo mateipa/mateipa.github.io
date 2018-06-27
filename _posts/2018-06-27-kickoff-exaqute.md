@@ -9,7 +9,7 @@ My supervisor [Prof. Barbara Wohlmuth](link) asked me if I like to fly to Barcel
 	<img src="/assets/images/logo-exaqute.png" alt="Logo ExaQUte" width="75%" />
 </center>
 
-We spent June 26 and 27 in Barcelona at [C-IMNE](https://www.cimne.com/) to take part at presentations and discussions to kickoff the project [__ExaQUte__](https://www.exaqute.eu) (__Exa__-scale __Q__-uantification of __U__-ncertainties for __Te__-chnology and Science Simulation).
+We spent June 26 and 27 in Barcelona at [CIMNE](https://www.cimne.com/) to take part at presentations and discussions to kickoff the project [__ExaQUte__](https://www.exaqute.eu) (__Exa__-scale __Q__-uantification of __U__-ncertainties for __Te__-chnology and Science Simulation).
 The aim of the project is to combine techniques for _adaptive mesh refinement_ and _uncertainty propagation_ tackled with _Multi Level Monte Carlo_ (MLMC).
 Also, the scope lies on exascale computing meaning that all algorithms are supposed to run in parallel massively.
 
