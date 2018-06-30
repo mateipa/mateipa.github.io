@@ -15,5 +15,5 @@ Also, the scope lies on exascale computing meaning that all algorithms are suppo
 
 It will be crucial whether and how we can find a good way to combine different ideas from different fields.
 On the one hand, there are some more theoretical results and aspects, on the other hand, they have now to be applied to real world problems which is highly nontrivial in general.
-Also, many institutions and nationalities are taking part in this project making it even more important to find well-suited communiation strategies.
+Also, many institutions and nationalities are taking part in this project making it even more important to find well-suited communication strategies.
 
