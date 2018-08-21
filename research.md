@@ -3,12 +3,15 @@ title: Research
 ---
 ## Interests
 **Uncertainty Quantification in Inverse Problems**: Bayesian inversion, Markov chain Monte Carlo sampling, dimension reduction techniques, computational aspects
-- **Applications**: Marine biogeochemistry, porous media, plasma physics
+- **Applications**: Marine biogeochemistry, porous media
 
 ## Publications
 ### Preprints
+--
+
+### 2018
 3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, B. Wohlmuth.
-_Efficient parameter estimation for a methane hydrate model with active subspaces_, 2018 --
+_Efficient parameter estimation for a methane hydrate model with active subspaces_, 2018, accepted to appear in _Computational Geosciences_ --
 [arXiv:1801.09499](https://arxiv.org/abs/1801.09499)
 
 ### 2016
