@@ -7,10 +7,10 @@ title: Research
 
 ## Publications
 ### Preprints
-4\. D. Bittner, **M. Teixeira Parente**, S. Mattis, B. Wohlmuth, G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv:1808.07009](https://arxiv.org/abs/1808.07009)
+4\. D. Bittner, **M. Teixeira Parente**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv:1808.07009](https://arxiv.org/abs/1808.07009)
 
 ### 2018
-3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, B. Wohlmuth.
+3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, and B. Wohlmuth,
 _Efficient parameter estimation for a methane hydrate model with active subspaces_, 2018, accepted to appear in _Computational Geosciences_ --
 [arXiv:1801.09499](https://arxiv.org/abs/1801.09499)
 
