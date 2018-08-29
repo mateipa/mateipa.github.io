@@ -13,3 +13,5 @@ A final version is available as a preprint at arXiv ([arXiv:1801.09499](https://
 
 I would like to thank all of my co-authors for their contribution to my first published article!
 
+[EDIT -- Aug 29, 2018: [Journal link](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x)]
+

@@ -11,8 +11,7 @@ title: Research
 
 ### 2018
 3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, and B. Wohlmuth,
-_Efficient parameter estimation for a methane hydrate model with active subspaces_, 2018, accepted to appear in _Computational Geosciences_ --
-[arXiv:1801.09499](https://arxiv.org/abs/1801.09499)
+_Efficient parameter estimation for a methane hydrate model with active subspaces_, Computational Geosciences (2018) -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x), [arXiv:1801.09499](https://arxiv.org/abs/1801.09499)
 
 ### 2016
 2\. **Master thesis**. *Brownian Motion and the Dirichlet Problem*, Ludwig-Maximilians-Universität München (LMU) -- [pdf]({% link assets/files/mthesis.pdf %})
