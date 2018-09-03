@@ -7,11 +7,11 @@ title: Research
 
 ## Publications
 ### Preprints
-4\. D. Bittner, **M. Teixeira Parente**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv:1808.07009](https://arxiv.org/abs/1808.07009)
+4\. D. Bittner, **M. Teixeira Parente**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
 
 ### 2018
 3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, and B. Wohlmuth,
-_Efficient parameter estimation for a methane hydrate model with active subspaces_, Computational Geosciences (2018) -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x), [arXiv:1801.09499](https://arxiv.org/abs/1801.09499)
+_Efficient parameter estimation for a methane hydrate model with active subspaces_, Computational Geosciences (2018) -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x) ([full-text view-only](https://link.springer.com/epdf/10.1007%2Fs10596-018-9769-x)), [arXiv](https://arxiv.org/abs/1801.09499)
 
 ### 2016
 2\. **Master thesis**. *Brownian Motion and the Dirichlet Problem*, Ludwig-Maximilians-Universität München (LMU) -- [pdf]({% link assets/files/mthesis.pdf %})

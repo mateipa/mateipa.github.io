@@ -9,9 +9,10 @@ date: 2018-08-21
 
 I am very proud to let you know that our article on _Efficient parameter estimation for a methane hydrate model with active subspaces_ (see posts [here]({% link _posts/2018-01-30-meth-hydr-act-subsp.md %}) and [here]({% link _posts/2018-07-05-meth-hydr-act-subsp-rev.md %})) got accepted by _Computational Geosciences_ (Springer).
 
-A final version is available as a preprint at arXiv ([arXiv:1801.09499](https://arxiv.org/abs/1801.09499)).
+A final version is available as a preprint at [arXiv](https://arxiv.org/abs/1801.09499).
 
 I would like to thank all of my co-authors for their contribution to my first published article!
 
-[EDIT -- Aug 29, 2018: [Journal link](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x)]
+[EDIT -- Aug 29, 2018: [Journal link](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x)]  
+[EDIT -- Sep 03, 2018: [Full-text view-only version](https://rdcu.be/5oQt)]
 
