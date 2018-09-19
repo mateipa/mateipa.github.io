@@ -7,6 +7,8 @@ title: Research
 
 ## Publications
 ### Preprints
+5\. **M. Teixeira Parente**, _A probabilistic framework for approximating functions in active subspaces_, 2018 -- [arXiv](https://arxiv.org/abs/1809.06581)
+
 4\. D. Bittner, **M. Teixeira Parente**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
 
 ### 2018
