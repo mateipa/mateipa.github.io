@@ -7,12 +7,14 @@ title: Research
 
 ## Publications
 ### Preprints
-5\. **M. Teixeira Parente**, _A probabilistic framework for approximating functions in active subspaces_, 2018 -- [arXiv](https://arxiv.org/abs/1809.06581)
+6\. **M. TP.**, _Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces_, 2019 -- [arXiv](https://arxiv.org/abs/1901.03283)
 
-4\. D. Bittner, **M. Teixeira Parente**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
+5\. D. Bittner, **M. TP.**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
+
+4\. **M. TP.**, _A probabilistic framework for approximating functions in active subspaces_, 2018 -- [arXiv](https://arxiv.org/abs/1809.06581)
 
 ### 2018
-3\. **M. Teixeira Parente**, S. Mattis, S. Gupta, C. Deusner, and B. Wohlmuth,
+3\. **M. TP.**, S. Mattis, S. Gupta, C. Deusner, and B. Wohlmuth,
 _Efficient parameter estimation for a methane hydrate model with active subspaces_, Computational Geosciences (2018) -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x) ([full-text view-only](https://link.springer.com/epdf/10.1007%2Fs10596-018-9769-x)), [arXiv](https://arxiv.org/abs/1801.09499)
 
 ### 2016
