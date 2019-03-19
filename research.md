@@ -7,7 +7,7 @@ title: Research
 
 ## Publications
 ### Preprints
-6\. **M. TP.**, _Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces_, 2019 -- [arXiv](https://arxiv.org/abs/1901.03283)
+6\. **M. TP.**, D. Bittner, S. Mattis, G. Chiogna, and B. Wohlmuth, _Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces_, 2019 -- [arXiv](https://arxiv.org/abs/1901.03283)
 
 5\. D. Bittner, **M. TP.**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
 
