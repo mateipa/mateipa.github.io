@@ -7,7 +7,7 @@ title: Research
 
 ## Articles
 ### Preprints
-D. Bittner, **M. TP.**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
+None
 
 ### 2019
 **TP., M.**, Bittner, D., Mattis, S., Chiogna, G., & Wohlmuth, B. (2019).
