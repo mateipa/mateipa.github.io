@@ -3,26 +3,30 @@ title: Research
 ---
 ## Interests
 **Uncertainty Quantification in Inverse Problems**: Bayesian inversion, Markov chain Monte Carlo sampling, dimension reduction techniques, computational aspects
-- **Applications**: Marine biogeochemistry, porous media
+- **Applications**: Marine biogeochemistry, porous media, karst hydrology
 
 ## Publications
 ### Preprints
-6\. **M. TP.**, D. Bittner, S. Mattis, G. Chiogna, and B. Wohlmuth, _Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces_, 2019 -- [arXiv](https://arxiv.org/abs/1901.03283)
+D. Bittner, **M. TP.**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
 
-5\. D. Bittner, **M. TP.**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
-
-4\. **M. TP.**, _A probabilistic framework for approximating functions in active subspaces_, 2018 -- [arXiv](https://arxiv.org/abs/1809.06581)
+### 2019
+**TP., M.**, Bittner, D., Mattis, S., Chiogna, G., & Wohlmuth, B. (2019).
+Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. _accepted in Water Resources Research_ -- [journal](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR024739), [arXiv](https://arxiv.org/abs/1901.03283)
 
 ### 2018
-3\. **M. TP.**, S. Mattis, S. Gupta, C. Deusner, and B. Wohlmuth.
-Efficient parameter estimation for a methane hydrate model with active subspaces. _Comput Geosci_ (2019) __23__:355--372. -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x) ([full-text view-only](https://link.springer.com/epdf/10.1007%2Fs10596-018-9769-x)), [arXiv](https://arxiv.org/abs/1801.09499)
+**TP., M.**, Mattis, S., Gupta, S., Deusner, C., & Wohlmuth, B. (2019).
+Efficient parameter estimation for a methane hydrate model with active subspaces.
+_Computational Geosciences_, _23_(2), 355--372. -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x) ([full-text view-only](https://link.springer.com/epdf/10.1007%2Fs10596-018-9769-x)), [arXiv](https://arxiv.org/abs/1801.09499)
 
 ### 2016
-2\. **Master thesis**. *Brownian Motion and the Dirichlet Problem*, Ludwig-Maximilians-Universität München (LMU) -- [pdf]({% link assets/files/mthesis.pdf %})
+**Master thesis**. *Brownian Motion and the Dirichlet Problem*, Ludwig-Maximilians-Universität München (LMU) -- [pdf]({% link assets/files/mthesis.pdf %})
 
 ### 2013
-1\. **Bachelor thesis**. *N.V. Krylov's Proof of the de Moivre-Laplace Theorem*, University of Applied Sciences Munich (HM) -- [pdf]({% link assets/files/bthesis.pdf %})
+**Bachelor thesis**. *N.V. Krylov's Proof of the de Moivre-Laplace Theorem*, University of Applied Sciences Munich (HM) -- [pdf]({% link assets/files/bthesis.pdf %})
+
+### Not published
+**TP., M.** (2018). A probabilistic framework for approximating functions in active subspaces -- [arXiv](https://arxiv.org/abs/1809.06581)
 
 ## Talks, Conferences, etc.
-2\. **M2 Oberseminar**, *Active subspaces for Bayesian inversion, Application to a methane hydrate model*, Garching, 02.03.2018 ([post]({{ site.baseurl }}{% link _posts/2018-03-03-talk-obersem.md %}), [slides](/assets/files/talk-obersem.pdf))  
-1\. **FrontUQ** (Frontiers of Uncertainty Quantification in Engineering), Munich, 06.09.-08.09.2017 
+**M2 Oberseminar**, *Active subspaces for Bayesian inversion, Application to a methane hydrate model*, Garching, 02.03.2018 ([post]({{ site.baseurl }}{% link _posts/2018-03-03-talk-obersem.md %}), [slides](/assets/files/talk-obersem.pdf))  
+**FrontUQ** (Frontiers of Uncertainty Quantification in Engineering), Munich, 06.09.-08.09.2017 
