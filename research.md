@@ -5,7 +5,7 @@ title: Research
 **Uncertainty Quantification in Inverse Problems**: Bayesian inversion, Markov chain Monte Carlo sampling, dimension reduction techniques, computational aspects
 - **Applications**: Marine biogeochemistry, porous media, karst hydrology
 
-## Publications
+## Articles
 ### Preprints
 D. Bittner, **M. TP.**, S. Mattis, B. Wohlmuth, and G. Chiogna, _On the relationship between parameters and discharge data for a lumped karst aquifer model_, 2018 -- [arXiv](https://arxiv.org/abs/1808.07009)
 
