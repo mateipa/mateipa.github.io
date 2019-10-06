@@ -13,4 +13,5 @@ We investigate ASM in the context of distributions with exponential tails and we
 Also, we propose a way for getting weaker, or generalized, bounds that, however, result in a lower order of the error bound.
 Indeed, we show how to balance the size the Poincaré constant and the order of the error.
 At the end, we suggest an open problem to the community which aims at generalizing the applicability of ASM to a larger class of distributions, i.e., multivariate generalized hyperbolics.
+I want to thank both of my co-authors for their feedback and assistance in developing the structure of this manuscript and for the valuable discussions we had.
 
