@@ -13,7 +13,6 @@ title: Research
 **TP., M.**, Bittner, D., Mattis, S., Chiogna, G., & Wohlmuth, B. (2019).
 Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. _Water Resources Research_, _55_(8), 7086--7107. -- [journal](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR024739), [arXiv](https://arxiv.org/abs/1901.03283)
 
-### 2018
 **TP., M.**, Mattis, S., Gupta, S., Deusner, C., & Wohlmuth, B. (2019).
 Efficient parameter estimation for a methane hydrate model with active subspaces.
 _Computational Geosciences_, _23_(2), 355--372. -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x) ([full-text view-only](https://link.springer.com/epdf/10.1007%2Fs10596-018-9769-x)), [arXiv](https://arxiv.org/abs/1801.09499)
