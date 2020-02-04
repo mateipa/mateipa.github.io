@@ -11,10 +11,10 @@ date: 2020-02-03
 ---
 
 _Jonas Wallin_, _Barbara Wohlmuth_, and I put a revised version of our article _Generalized bounds for active subspaces_ in the [arXiv](https://arxiv.org/abs/1910.01399).
-The main changes consist of a formalization of our results to a theorem/proof style, the consideration of a particular supremum (more below), and a revision of the section on future work with MGH distribution (multivariate generalized hyperbolics).
+The main changes consist of a formalization of our results to a theorem/proof style, the consideration of a particular supremum (more below), and a revision of the section on future work with MGH distributions (multivariate generalized hyperbolics).
 
 In the former version, our counterexample to existing theoretical results considered an _arbitrary_ orthogonal transformation of input variables that, however, was used before as a particular defined transformation.
-Since related quantities appear in error bounds, we now consider the supremum of the related quantities over the set of all orthogonal matrices which makes it valid for us to keep regard arbitrary transformation.
+Since related quantities appear in error bounds, we now consider the supremum of the related quantities over the set of all orthogonal matrices which makes it valid for us to keep regard arbitrary transformations.
 In fact, we should justify why it is enough in our case to consider rotations, a subset of orthogonal transformations, only.
 
 Finally, I want to thank both of my co-authors for their feedback and assistance in revising this manuscript.
