@@ -13,7 +13,7 @@ title: About
 **Name**: Mario <u>Teixeira Parente</u>
 	
 **Address**:  
-Chair of Numerical Mathematics (M2)  
+Chair for Numerical Mathematics (M2)  
 Boltzmannstraße 3  
 85748 Garching near Munich
 	
