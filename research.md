@@ -11,15 +11,15 @@ title: Research
 
 ### 2020
 Bittner, D., **TP., M.**, Mattis, S., Wohlmuth, B., & Chiogna, G. (2020).
-Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. _Advances in Water Resources_, _135_(?), ???--???. -- [journal](https://www.sciencedirect.com/science/article/pii/S0309170819306700?via%3Dihub)
+Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. _Advances in Water Resources_, _135_, 103472. -- [journal](https://doi.org/10.1016/j.advwatres.2019.103472)
 
 ### 2019
 **TP., M.**, Bittner, D., Mattis, S., Chiogna, G., & Wohlmuth, B. (2019).
-Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. _Water Resources Research_, _55_(8), 7086--7107. -- [journal](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019WR024739), [arXiv](https://arxiv.org/abs/1901.03283)
+Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. _Water Resources Research_, _55_(8), 7086--7107. -- [journal](https://doi.org/10.1029/2019WR024739), [arXiv](https://arxiv.org/abs/1901.03283)
 
 **TP., M.**, Mattis, S., Gupta, S., Deusner, C., & Wohlmuth, B. (2019).
 Efficient parameter estimation for a methane hydrate model with active subspaces.
-_Computational Geosciences_, _23_(2), 355--372. -- [journal](https://link.springer.com/article/10.1007%2Fs10596-018-9769-x) ([full-text view-only](https://link.springer.com/epdf/10.1007%2Fs10596-018-9769-x)), [arXiv](https://arxiv.org/abs/1801.09499)
+_Computational Geosciences_, _23_(2), 355--372. -- [journal](https://doi.org/10.1007/s10596-018-9769-x) ([full-text view-only](https://rdcu.be/5oQt)), [arXiv](https://arxiv.org/abs/1801.09499)
 
 ### 2016
 **Master thesis**. *Brownian Motion and the Dirichlet Problem*, Ludwig-Maximilians-Universität München (LMU) -- [pdf]({% link assets/files/mthesis.pdf %})
