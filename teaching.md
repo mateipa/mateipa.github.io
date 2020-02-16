@@ -9,9 +9,10 @@ permalink: teaching
 - [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos), _I want to be a Mathematician: An Automathography_ (Book)
 
 ## Present
-- **Winter 2019/20**: [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/Allgemeines/MA1304WS19), TUM, Exercise coordinator
+- **Summer 2020**: *Mathematical Models for UQ in Hydrology*, TUM, Module construction
 
 ## Past
+- **Winter 2019/20**: [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/Allgemeines/MA1304WS19), TUM, Exercise coordinator
 - **Summer 2019**: [*Numerics for PDEs (MSE)*](https://www-m2.ma.tum.de/bin/view/Allgemeines/MSESS19), TUM, Exercise coordinator
 - **Winter 2018/19**: [*Modeling and Simulation with ODEs*](https://www-m3.ma.tum.de/ModSimODE1819/), TUM, Tutor
 - **Semester break Sep/Oct 2018**: [*Ferienakademie*](https://www.ferienakademie.de/en/home-2/) ([Group 08](https://www.ferienakademie.de/kurse-2018/2018-kurs-8-simulation-technology-from-models-to-software/)), Tutor
