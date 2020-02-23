@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Published: Generalized bounds for active subspaces"
-article_link: "https://linktoejs"
+article_link: "https://doi.org/10.1214/20-EJS1684"
 thumbnail: /assets/images/thumbnail-asm-poincare-pub.png
 abstract: "In this article, we consider scenarios in which traditional estimates for the active subspace method based on probabilistic Poincaré inequalities are not valid due to unbounded Poincaré constants.
 Consequently, we propose a framework that allows to derive generalized estimates in the sense that it enables to control the trade-off between the size of the Poincaré constant and a weaker order of the final error bound.
