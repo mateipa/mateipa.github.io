@@ -23,8 +23,11 @@ description: academic website
 #  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-github_username: m-parente
+
+scholar_link: https://scholar.google.de/citations?user=GTpjMXwAAAAJ
+orcid_link: https://orcid.org/0000-0002-1924-8730
+bitbucket_link: https://bitbucket.org/m-parente/
+github_link: https://github.com/m-parente/
 
 permalink: /posts/:year/:month/:day/:title
 
