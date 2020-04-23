@@ -22,6 +22,6 @@ permalink: teaching
 - **Summer 2017**: [_Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods_](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/UQSEM), TUM
 - **Winter 2015/16**: _Stochastics_, LMU, Tutor
 - **Winter 2014/15**: _Analysis I_, LMU, Tutor
-- **Winter 2011/12**: _Linear algebra_, HM, Tutor
-- **Winter 2011/12**: _Software engineering_, HM, Tutor
+- **Winter 2011/12**: _Linear Algebra_, HM, Tutor
+- **Winter 2011/12**: _Software Engineering_, HM, Tutor
 
