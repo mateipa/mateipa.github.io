@@ -9,7 +9,7 @@ title: Research
 ### Preprints
 
 ### 2020
-**TP., M.**, Wallin, J., Wohlmuth, B. (2020). Generalized bounds for active subspaces. _Electronic Journal of Statistics_, _14_(1), 917--943. -- [journal](https://doi.org/10.1214/20-EJS168), [arXiv](https://arxiv.org/abs/1910.01399)
+**TP., M.**, Wallin, J., Wohlmuth, B. (2020). Generalized bounds for active subspaces. _Electronic Journal of Statistics_, _14_(1), 917--943. -- [journal](https://doi.org/10.1214/20-EJS1684), [arXiv](https://arxiv.org/abs/1910.01399)
 
 Bittner, D., **TP., M.**, Mattis, S., Wohlmuth, B., & Chiogna, G. (2020).
 Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. _Advances in Water Resources_, _135_, 103472. -- [journal](https://doi.org/10.1016/j.advwatres.2019.103472)
