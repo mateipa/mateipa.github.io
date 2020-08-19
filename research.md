@@ -7,6 +7,7 @@ title: Research
 
 ## Articles
 ### Preprints
+--
 
 ### 2020
 **TP., M.**, Wallin, J., Wohlmuth, B. (2020). Generalized bounds for active subspaces. _Electronic Journal of Statistics_, _14_(1), 917--943. -- [journal](https://doi.org/10.1214/20-EJS1684), [arXiv](https://arxiv.org/abs/1910.01399)
