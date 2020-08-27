@@ -12,7 +12,7 @@ permalink: teaching
 - Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://static.uni-graz.at/fileadmin/projekte/forschungsnetzwerk-fachdidaktik/Publikationen/Hofer_Ranz_Die_Verzeitlichung_des_Zeitlosen.pdf) -- Didactic text on including historical and genetical aspects in mathematical education (German)
 
 ## Present
-
+--
 
 ## Past
 - **Summer 2020**: *Mathematical Models for UQ in Hydrology*, TUM, Module construction
