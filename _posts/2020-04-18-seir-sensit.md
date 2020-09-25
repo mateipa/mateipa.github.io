@@ -91,7 +91,7 @@ The map
 takes a particular parameter \\(\theta\\) and computes the corresponding number of infectious individuals for times \\(t=0,1,\ldots,T\\).
 Additionally, the map
 \\begin{equation}
-	\mathcal{G}_2(\theta) := \mathop{\mathrm{arg\,max}}\_{t=0,1,\ldots,60}{I(t)}
+	\mathcal{G}_2(\theta) := \mathop{\mathrm{arg\,max}}\_{t=0,1,\ldots,T}{I(t)}
 \\end{equation}
 computes the peak time of the infectious compartment.
 
