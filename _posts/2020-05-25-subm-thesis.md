@@ -9,5 +9,5 @@ Finally, I made it to submit my PhD thesis "_Active Subspaces in Bayesian Invers
 The thesis is now going to be reviewed by two reviewers.
 If the reviews are then accepted by the department, we can conduct the defense which is the final major step to graduation.
 
-A link to a PDF version of the thesis will be provided as soon as it is published by the TUM University library.
+EDIT: A final version of the thesis is available at the [TUM University library](https://mediatum.ub.tum.de/?id=1546065).
 
