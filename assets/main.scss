@@ -35,8 +35,13 @@ a:visited { color: #2a7ae2; }
 }
 
 /* General */
+p {
+	text-align: justify; /* Block text */
+}
+
 .abstract {
 	clear: left;
 	display: block;
 }
+
 
