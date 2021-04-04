@@ -39,5 +39,9 @@ _Computational Geosciences_, _23_(2), 355--372. -- [journal](https://doi.org/10.
 **TP., M.** (2018). A probabilistic framework for approximating functions in active subspaces -- [arXiv](https://arxiv.org/abs/1809.06581)
 
 ## Talks, Conferences, etc.
-**M2 Oberseminar**, *Active subspaces for Bayesian inversion, Application to a methane hydrate model*, Garching, 02.03.2018 ([post]({{ site.baseurl }}{% link _posts/2018-03-03-talk-obersem.md %}), [slides](/assets/files/talk-obersem.pdf))  
-**FrontUQ** (Frontiers of Uncertainty Quantification in Engineering), Munich, 06.09.-08.09.2017 
+**SIAM UQ 2020**, *Solving a Bayesian Inverse Problem for a Karst Aquifer Model with Active Subspaces*, Garching, March 2020 (canceled due to SARS-CoV-2)
+
+**Statistics seminar**, *Active Subspaces in Bayesian Inverse Problems*, Department of Statistics, Lund University, Sweden, May 2019
+
+**M2 Oberseminar**, *Active subspaces for Bayesian inversion, Application to a methane hydrate model*, Garching, March 2018 ([post]({{ site.baseurl }}{% link _posts/2018-03-03-talk-obersem.md %}), [slides](/assets/files/talk-obersem.pdf))
+
