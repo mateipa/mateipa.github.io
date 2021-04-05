@@ -37,7 +37,7 @@ Such problems are called _computational problems_ in the remainder and often inv
 Now, the main point of our definition is that neither finding a method or an algorithm alone (methodology), nor proving a numerical result for its own sake (theory), nor an efficient implementation of an algorithm in a suitable programming language (implementation) without a connection to the former two tasks is what SC does.
 Much more, it is the (often complex) interplay of all of the three parts.
 
-<br><center><img src="/assets/images/sc-pillars.png" /></center><br>
+<br><center><img src="/assets/images/sc-pillars.svg" /></center><br>
 
 The main purpose of SC certainly is finding a method or algorithm that solves a computational problem.
 However, following our definition, only the consideration and connection of all three aspects makes the approach a scientific computing approach.

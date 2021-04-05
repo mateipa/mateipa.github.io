@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
 <ipe version="70206" creator="Ipe 7.2.7">
-<info created="D:20210402202049" modified="D:20210403132710"/>
+<info created="D:20210402202049" modified="D:20210405152110"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -263,7 +263,7 @@ h
 <page>
 <layer name="alpha"/>
 <view layers="alpha" active="alpha"/>
-<path layer="alpha" matrix="1 0 0 1 -80 -16" stroke="black">
+<path layer="alpha" matrix="1 0 0 1 -96 -16" stroke="black">
 96 752 m
 96 752 l
 96 752 l
@@ -308,7 +308,7 @@ h
 192 720 l
 160 720 l
 </path>
-<text matrix="1 0 0 1 -2.08518 -13.9148" transformations="translations" pos="80 752" stroke="black" type="label" width="60.882" height="11.953" depth="3.35" valign="baseline" size="LARGE">\bfseries Theory</text>
+<text matrix="1 0 0 1 -2.0852 -13.9148" transformations="translations" pos="80 752" stroke="black" type="label" width="60.882" height="11.953" depth="3.35" valign="baseline" size="LARGE">\bfseries Theory</text>
 <text matrix="1 0 0 1 -52.4436 -8.02966" transformations="translations" pos="302.138 745.934" stroke="black" type="label" width="111.133" height="11.953" depth="3.35" valign="baseline" size="LARGE">\bfseries Methodology</text>
 <path stroke="black" fill="C1">
 32 704 m
@@ -317,7 +317,7 @@ h
 48 704 l
 h
 </path>
-<text matrix="1 0 0 1 -9.27655 -12.6869" transformations="translations" pos="64 704" stroke="black" type="label" width="66.07" height="8.302" depth="0" valign="baseline" size="large">Mathematics</text>
+<text matrix="1 0 0 1 -9.2766 -12.6869" transformations="translations" pos="64 704" stroke="black" type="label" width="66.07" height="8.302" depth="0" valign="baseline" size="large">Mathematics</text>
 <path matrix="1 0 0 1 384 0" stroke="black" fill="C2">
 32 704 m
 32 688 l
