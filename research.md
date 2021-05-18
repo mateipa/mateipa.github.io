@@ -42,7 +42,7 @@ _Computational Geosciences_, _23_(2), 355--372. -- [journal](https://doi.org/10.
 **TP., M.** (2018). A probabilistic framework for approximating functions in active subspaces. -- [arXiv](https://arxiv.org/abs/1809.06581)
 
 ## Talks, Conferences, etc.
-**CAMERA Workshop on Autonomous Discovery in Science and Engineering** ([website](https://autonomous-discovery.lbl.gov/)). *Autonomous Experiments for Neutron Three-Axis Spectrometers (TAS) with Log-Gaussian Processes*. April 2021. -- [post]({{ site.baseurl }}{% link _posts/2021-05-07-camera-workshop.md %})
+**CAMERA Workshop on Autonomous Discovery in Science and Engineering** ([website](https://autonomous-discovery.lbl.gov/)). *Autonomous Experiments for Neutron Three-Axis Spectrometers (TAS) with Log-Gaussian Processes*. April 2021. -- [extended abstract](https://arxiv.org/abs/2105.07716), [post]({{ site.baseurl }}{% link _posts/2021-05-07-camera-workshop.md %})
 
 **SIAM UQ 2020**. *Solving a Bayesian Inverse Problem for a Karst Aquifer Model with Active Subspaces*. Garching. March 2020. (Canceled due to SARS-CoV-2.)
 
