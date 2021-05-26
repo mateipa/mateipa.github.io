@@ -12,6 +12,5 @@ The presentation covered recent methodological advances of our group in the appl
 Other talks were either focussing on physical applications or were showing methodological approaches to autonomous material discovery.
 Although I was not able to fully follow the physics parts, I got a decent impression of what the problems are that groups try to solve in this area.
 
-I will provide a link to an extended abstract of our contribution as soon as it is available.
-<!-- You can find an extended abstract of our contribution [here](). -->
+[EDIT: You can find an extended abstract of our contribution on [arXiv](https://arxiv.org/abs/2105.07716).]
 
