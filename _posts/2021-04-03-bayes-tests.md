@@ -67,7 +67,7 @@ Applying the upper bound from above, we get that
 	\mathbf{P}(I\,\vert\,T_+) \leq \frac{1}{1 - \mathbf{P}(T_+\,\vert\,\overline{I}) + \frac{\mathbf{P}(T_+\,\vert\,\overline{I})}{\mathbf{P}(I)}},
 \\end{equation}
 where \\(\overline{I}\\) denotes the event that the person is _not_ infected.
-The term \\(\mathbf{P}(T_+\,\vert\,I)\\) is also called the _false positive rate_ (FPR) of the test and represents the ratio between the number of falsely positive tests and the number of noninfected persons.
+The term \\(\mathbf{P}(T_+\,\vert\,\overline{I})\\) is also called the _false positive rate_ (FPR) of the test and represents the ratio between the number of falsely positive tests and the number of noninfected persons.
 The _prevalence_ is denoted by \\(\mathbf{P}(I)\\) and specifies the proportion of infected persons in the whole population.
 
 Finally, repeating the above inequality with the mentioned terms, we get that
