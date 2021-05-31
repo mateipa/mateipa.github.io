@@ -65,7 +65,7 @@ We find that both disciplines can equally contribute here.
 
 # 3. Implementation
 Implementing a proposed method or algorithm is software development, more or less.
-Of course, if the problem is highly computational expensive, techniques of _high performance computing_, which we also see as part of implementation, should be applied.
+Of course, if the problem is highly computationally expensive, techniques of _high performance computing_, which we also see as part of implementation, should be applied.
 It is the job of the software developer (or computer scientist) to produce code that efficiently executes the idea of the algorithm.
 In this respect, software validation by suitable tests showing the correctness of the implementation is also necessary at this point.
 
