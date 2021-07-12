@@ -5,7 +5,7 @@ A pdf version of my CV can be found [here]({% link assets/files/cv.pdf %}).
 
 **10/2020 -- now**. [Jülich Centre for Neutron Science](https://www.fz-juelich.de/jcns/EN/), Garching near Munich, Germany  
 Postdoc for machine learning-based data analysis of neutron scattering experiments  
-_Advisor_: Dr. Joachim Wuttke, Dr. Marina Ganeva
+_Advisor_: Dr. Marina Ganeva
 
 **10/2016 -- 09/2020**. [Technical University of Munich](https://www-m2.ma.tum.de/), Munich, Germany  
 PhD student in applied mathematics  
