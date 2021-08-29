@@ -3,6 +3,9 @@ title: CV
 ---
 A pdf version of my CV can be found [here]({% link assets/files/cv.pdf %}).
 
+**03/2021 -- now**. [University of Applied Sciences Munich](https://www.cs.hm.edu/), Munich, Germany  
+Lecturer for [Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/) and [Linear Algebra](https://zpa.cs.hm.edu/public/module/138/)
+
 **10/2020 -- now**. [Jülich Centre for Neutron Science](https://www.fz-juelich.de/jcns/EN/), Garching near Munich, Germany  
 Postdoc for machine learning-based data analysis of neutron scattering experiments  
 _Advisor_: Dr. Marina Ganeva
