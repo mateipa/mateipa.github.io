@@ -1,8 +1,9 @@
 ---
 title: CV
 ---
-A pdf version of my CV can be found [here]({% link assets/files/cv.pdf %}).
+A pdf version of my academic CV can be found [here]({% link assets/files/cv.pdf %}).
 
+## Experience
 **03/2021 -- now**. [University of Applied Sciences Munich](https://www.cs.hm.edu/), Munich, Germany  
 Lecturer for [Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/) and [Linear Algebra](https://zpa.cs.hm.edu/public/module/138/)
 
@@ -10,6 +11,7 @@ Lecturer for [Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/37
 Postdoc for machine learning-based data analysis of neutron scattering experiments  
 _Advisor_: Dr. Marina Ganeva
 
+## Education
 **10/2016 -- 09/2020**. [Technical University of Munich](https://www-m2.ma.tum.de/), Munich, Germany  
 PhD student in applied mathematics  
 _Thesis_: Active Subspaces in Bayesian Inverse Problems ([link](https://mediatum.ub.tum.de/?id=1546065))  
@@ -28,4 +30,8 @@ _Supervisor_: Dr. Gregor Svindland
 Bachelor student in scientific computing  
 _Thesis_: N.V. Krylov's Proof of the de Moivre-Laplace Theorem ([pdf]({% link /assets/files/bthesis.pdf %}))  
 _Supervisor_: Prof. Dr. Manfred Gruber
+
+<!--## Volunteering
+**10/2021 -- now**. [Max Weber-Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program), Munich, Germany  
+Mentor for scholarship holders-->
 
