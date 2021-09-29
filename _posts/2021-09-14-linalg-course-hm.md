@@ -19,7 +19,7 @@ The core concepts that we like them to learn and experience are the following:
 * Eigenvalues and eigenvectors (diagonalization)
 * Complex numbers
 
-The lectures will be held online only, whereas the exercises are offered in person and online.
+The lectures and tutorials will be offered in person, but there is also an online option with the same contents.
 I am especially curious as this course is my first experience with freshmen and since they had to finish their time at high school under rather difficult conditions due to the Corona crisis.
 My hope is that our team is able to provide a stimulating environment for them and contributes to a successful start into their time as college students.
 
