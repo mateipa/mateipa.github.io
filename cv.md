@@ -19,12 +19,12 @@ _Supervisor_: Prof. Dr. Barbara Wohlmuth
 
 **04/2016 -- 05/2016**. [Yale University](http://bbs.yale.edu), New Haven, USA  
 Postgratuate fellow in biomedical engineering (microscopic image processing)  
-_Advisor_: Joerg Bewersdorf, PhD
+_Advisor_: Prof. Joerg Bewersdorf, PhD
 
 **10/2013 -- 03/2016**. [Ludwig-Maximilians-Universität München](https://www.mathematik.uni-muenchen.de/) (LMU), Munich, Germany  
 Master student in mathematics  
 _Thesis_: Brownian Motion and the Dirichlet Problem ([pdf]({% link /assets/files/mthesis.pdf %}))  
-_Supervisor_: Dr. Gregor Svindland
+_Supervisor_: Prof. Dr. Gregor Svindland
 
 **10/2010 -- 09/2013**. [University of Applied Sciences Munich](https://www.cs.hm.edu/en/home/index.en.html), Munich, Germany  
 Bachelor student in scientific computing  
