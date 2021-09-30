@@ -31,7 +31,7 @@ Bachelor student in scientific computing
 _Thesis_: N.V. Krylov's Proof of the de Moivre-Laplace Theorem ([pdf]({% link /assets/files/bthesis.pdf %}))  
 _Supervisor_: Prof. Dr. Manfred Gruber
 
-<!--## Volunteering
+## Volunteering
 **10/2021 -- now**. [Max Weber-Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program), Munich, Germany  
-Mentor for scholarship holders-->
+Mentor for scholarship holders
 
