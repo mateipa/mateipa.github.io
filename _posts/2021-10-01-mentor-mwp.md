@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mentor for the Max Weber-Program
+title: Mentor for the Max Weber Program
 date: 2021-10-01
 ---
 
-I feel honoured to announce that I became a "Mentor" in the [Max Weber-Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program) (Max Weber-Programm Bayern, MWP) which is giving scholarships with financial and ideal support to promising students.
+I feel honoured to announce that I became a "Mentor" in the [Max Weber Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program) (Max Weber-Programm Bayern, MWP) which is giving scholarships with financial and ideal support to promising students.
 During my time as a student, I was lucky to be part of this program too and have benefited a lot from its offers.
 
 Now, as an alumnus, I have the honour and responsibility to support current scholarship holders in my own mentoring group which mainly consists of computer science and mathematics students from universities in Munich.
