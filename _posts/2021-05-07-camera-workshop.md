@@ -12,5 +12,6 @@ The presentation covered recent methodological advances of our group in the appl
 Other talks were either focussing on physical applications or were showing methodological approaches to autonomous material discovery.
 Although I was not able to fully follow the physics parts, I got a decent impression of what the problems are that groups try to solve in this area.
 
-[EDIT: You can find an extended abstract of our contribution on [arXiv](https://arxiv.org/abs/2105.07716).]
+[EDIT: You can find an extended abstract of our contribution on [arXiv](https://arxiv.org/abs/2105.07716).]  
+[EDIT: The [material](https://autonomous-discovery.lbl.gov/material) of the workshop (including a [DOE report](https://www.osti.gov/biblio/1818491/)) and the [slides](https://drive.google.com/file/d/1ERZdC9V-iCGpzIKvxcEOO9ku2F73gytF/view?usp=sharing) of my talk are available.]
 
