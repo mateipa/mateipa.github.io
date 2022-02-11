@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Published: Benchmarking autonomous scattering experiments illustrated on TAS"
-article_link: ""
+article_link: "https://www.frontiersin.org/articles/10.3389/fmats.2021.772014"
 thumbnail: /assets/images/thumbnail-benchmark-pub.png
 abstract: "With the advancement of artificial intelligence and machine learning methods, autonomous approaches are recognized to have great potential for performing more efficient scattering experiments.
 	In our view, it is crucial for such approaches to provide thorough evidence about respective performance improvements in order to increase acceptance within a scientific community.
