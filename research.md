@@ -52,11 +52,11 @@ _Computational Geosciences_, _23_(2), 355--372. doi:10.1007/s10596-018-9769-x --
 **Workshop on Innovative Inelastic Neutron Scattering**. *Benchmarking autonomous scattering experiments illustrated on TAS*. Institut Laue-Langevin. October 2021
 
 **Workshop on Autonomous Discovery in Science and Engineering** ([website](https://autonomous-discovery.lbl.gov/)). *Autonomous Experiments for Neutron Three-Axis Spectrometers (TAS) with Log-Gaussian Processes*. Center
-for Advanced Mathematics for Energy Research Applications, Lawrence Berkeley National Laboratory. April 2021 -- [extended abstract](https://arxiv.org/abs/2105.07716), [post]({{ site.baseurl }}{% link _posts/2021-05-07-camera-workshop.md %})
+for Advanced Mathematics for Energy Research Applications, Lawrence Berkeley National Laboratory. April 2021 -- [extended abstract](https://arxiv.org/abs/2105.07716), [post]({% link _posts/2021-05-07-camera-workshop.md %})
 
 **SIAM UQ 2020**. *Solving a Bayesian Inverse Problem for a Karst Aquifer Model with Active Subspaces*. Garching. March 2020 (canceled due to outbreak of SARS-CoV-2)
 
 **Statistics seminar**. *Active Subspaces in Bayesian Inverse Problems*. Department of Statistics, Lund University. May 2019
 
-**M2 Oberseminar**. *Active subspaces for Bayesian inversion, Application to a methane hydrate model*. Garching. March 2018 -- [post]({{ site.baseurl }}{% link _posts/2018-03-03-talk-obersem.md %}), [slides](/assets/files/talk-obersem.pdf)
+**M2 Oberseminar**. *Active subspaces for Bayesian inversion, Application to a methane hydrate model*. Garching. March 2018 -- [post]({% link _posts/2018-03-03-talk-obersem.md %}), [slides]({% link assets/files/talk-obersem.pdf %})
 
