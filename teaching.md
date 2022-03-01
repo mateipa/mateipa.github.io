@@ -12,9 +12,10 @@ permalink: teaching
 - Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://static.uni-graz.at/fileadmin/projekte/forschungsnetzwerk-fachdidaktik/Publikationen/Hofer_Ranz_Die_Verzeitlichung_des_Zeitlosen.pdf) -- Didactic text on including historical and genetical aspects in mathematical education (German)
 
 ## Present
-- **Winter 2021/22**: [*Linear Algebra*](https://zpa.cs.hm.edu/public/module/138/), HM, Lecturer (in cooperation with [Prof. Köster](https://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) and [Prof. Ruckert](https://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/ruckert/index.de.html))
+- **Summer 2022**: [*Fundamentals of Uncertainty Quantification*](https://zpa.cs.hm.edu/public/module/374/), HM, Lecturer
 
 ## Past
+- **Winter 2021/22**: [*Linear Algebra*](https://zpa.cs.hm.edu/public/module/138/), HM, Lecturer (in cooperation with [Prof. Köster](https://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) and [Prof. Ruckert](https://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/ruckert/index.de.html))
 - **Summer 2021**: [*Fundamentals of Uncertainty Quantification*](https://zpa.cs.hm.edu/public/module/374/), HM, Lecturer
 - **Summer 2020**: *Mathematical Models for UQ in Hydrology*, TUM, Module construction
 - **Winter 2019/20**: [*Introduction to Numerical Linear Algebra*](https://www-m2.ma.tum.de/bin/view/Allgemeines/MA1304WS19), TUM, Exercise coordinator
