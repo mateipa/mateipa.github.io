@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: CAMERA Workshop
 date: 2021-05-07
 ---

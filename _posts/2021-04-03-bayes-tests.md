@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Bayes' theorem and medical screening tests
 date: 2021-04-03
 ---

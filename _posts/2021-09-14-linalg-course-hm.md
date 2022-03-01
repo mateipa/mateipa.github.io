@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Linear algebra course at HM
 date: 2021-09-14
 ---

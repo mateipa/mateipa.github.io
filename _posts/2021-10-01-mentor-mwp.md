@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Mentor for the Max Weber Program
 date: 2021-10-01
 ---
