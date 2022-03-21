@@ -42,3 +42,6 @@ _Supervisor_: Prof. Dr. Manfred Gruber
 **10/2021 -- now**. [Max Weber Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program), Munich, Germany  
 Mentor for scholarship holders
 
+**2016 -- now**. [German Academic Scholarship Foundation](https://www.studienstiftung.de/en), Germany  
+Committee member for admissions seminars
+
