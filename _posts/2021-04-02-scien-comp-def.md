@@ -2,6 +2,7 @@
 layout: post
 title: "Scientific Computing: attempting a definition"
 date: 2021-04-02
+pinned: true
 ---
 
 First of all, "Scientific Computing" (SC) is an accepted term for a certain area of research among mathematicians and computer scientists particularly, but also for the scientific community in general.

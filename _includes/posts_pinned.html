@@ -1,9 +1,11 @@
 <ul class="post-list">
-{% assign posts = site.posts | where_exp: "post", "post.pinned != true" %}
-{% for post in posts limit: 4 %}
+{% assign posts = site.posts | where_exp: "post", "post.pinned == true" %}
+{% for post in posts %}
 <li>
   {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
   <span class="post-meta">{{ post.date | date: date_format }}</span>
+  <img class="img-pin" src="/assets/images/pin.ico" style="height:16px" />
+  <span class="post-meta" style="color:black">Pinned</span>
 
   <h2>
     <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -11,8 +13,6 @@
 </li>
 {% endfor %}
 </ul>
-
-<a class="post-link" href="/posts">[All posts]</a>
 
 <!--<p class="rss-subscribe">subscribe
 <a href="{{ " /feed.xml " | relative_url }}">via RSS</a>
