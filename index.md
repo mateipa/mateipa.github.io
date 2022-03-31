@@ -16,6 +16,5 @@ The focus of my work is the investigation of **machine learning methods** for ne
 At the moment, I am also a lecturer at the [Department of Computer Science and Mathematics](https://www.cs.hm.edu/en/home/index.en.html) of the [Munich University of Applied Sciences](https://www.hm.edu/en/index.en.html) (HM).
 I offer a course on the **fundamentals of UQ** for advanced bachelor students and a freshmen course on **linear algebra**.
 
-
 Feel free to rummage around or [subscribe](/feed.xml)! You can find recent posts right below this text.
 
