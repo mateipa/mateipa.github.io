@@ -45,6 +45,8 @@ _Computational Geosciences_, _23_(2), 355--372. doi:10.1007/s10596-018-9769-x --
 **TP., M.** (2018). A probabilistic framework for approximating functions in active subspaces -- [arXiv](https://arxiv.org/abs/1809.06581)
 
 ## Talks, Conferences, etc.
+**JCNS Workshop** (invited talk). *AI-assisted neutron spectroscopy -- Log-Gaussian processes for TAS*. Jülich Centre for Neutron Science. October 2022
+
 **MLZ User Meeting**. *Benchmarking autonomous TAS experiments*. Heinz Maier-Leibnitz Zentrum. December 2021
 
 **Workshop on SAXS@XFELs and HI & HE laser driven matter**. *Benchmarking autonomous TAS experiments*. Helmholtz-Zentrum Dresden-Rossendorf. November 2021
