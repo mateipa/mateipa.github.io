@@ -18,7 +18,7 @@ title: About
 **Fingerprint**: 03AA CABD 4B0D CB6C 43F5 B641 3896 7FA6 166F CAEA
 
 **Google Scholar**: [![Google Scholar](https://scholar.google.com/favicon.ico){:height="16px" width="16px"}]({{ site.scholar_link }})  
-**ORCiD**: [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)]({{ site.orcid_link }})  
+**ORCID**: [![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png)]({{ site.orcid_link }})  
 **Bitbucket**: [![Bitbucket](https://bitbucket.org/favicon.ico){:height="16px" width="16px"}]({{ site.bitbucket_link }})  
 **GitHub**: [![GitHub](https://github.githubassets.com/pinned-octocat.svg){:height="16px" width="16px"}]({{ site.github_link }})
 
