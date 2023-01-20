@@ -26,8 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 scholar_link: https://scholar.google.de/citations?user=GTpjMXwAAAAJ
 orcid_link: https://orcid.org/0000-0002-1924-8730
-bitbucket_link: https://bitbucket.org/m-parente/
-github_link: https://github.com/m-parente/
+bitbucket_link: https://bitbucket.org/mateipa/
+github_link: https://github.com/mateipa/
 
 permalink: /posts/:year/:month/:day/:title
 
