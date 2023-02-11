@@ -22,5 +22,5 @@ We uploaded a revised version of the manuscript on our approach [ARIANE](https:/
 Apart from a few changes to the text, especially in the introduction, we included a comparison with [_gpCAM_](https://gpcam.lbl.gov) in the appendix.
 _gpCAM_ is a competing approach that is also based on Gaussian Process Regression but substantially differs from ARIANE in how measurement locations are suggested.
 Although _gpCAM_ does not fully specify how to choose values for its parameters, the comparison is based on all the information available to us.
-We are looking forward to comments from the community and open for further discussions.
+We are looking forward to comments from the community and further discussions.
 
