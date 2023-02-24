@@ -17,23 +17,23 @@ Active subspaces
 **TP., M.**, Brandl, G., Franz, C., Stuhr, U., Ganeva, M., & Schneidewind, A. (2023). AI-assisted neutron spectroscopy using active learning with log-Gaussian processes. _arXiv e-prints_, [arXiv:2209.00980](https://arxiv.org/abs/2209.00980)
 
 ### 2022
-**TP., M.**, Schneidewind, A., Brandl, G., Franz, C., Noack, M., Boehm, M., & Ganeva, M. (2022). Benchmarking autonomous scattering experiments illustrated on TAS. _Frontiers in Materials_, _8_, 772014. doi:10.3389/fmats.2021.772014 -- [journal](https://www.frontiersin.org/articles/10.3389/fmats.2021.772014)
+**TP., M.**, Schneidewind, A., Brandl, G., Franz, C., Noack, M., Boehm, M., & Ganeva, M. (2022). Benchmarking autonomous scattering experiments illustrated on TAS. _Frontiers in Materials_ **8**, 772014. doi:10.3389/fmats.2021.772014 -- [journal](https://www.frontiersin.org/articles/10.3389/fmats.2021.772014)
 
 ### 2020
 **PhD thesis**. *Active Subspaces in Bayesian Inverse Problems*. Technical University Munich -- [link](https://mediatum.ub.tum.de/?id=1546065)
 
-**TP., M.**, Wallin, J., & Wohlmuth, B. (2020). Generalized bounds for active subspaces. _Electronic Journal of Statistics_, _14_(1), 917--943. doi:10.1214/20-EJS1684 -- [journal](https://doi.org/10.1214/20-EJS1684), [arXiv](https://arxiv.org/abs/1910.01399)
+**TP., M.**, Wallin, J., & Wohlmuth, B. (2020). Generalized bounds for active subspaces. _Electronic Journal of Statistics_ **14**(1), 917--943. doi:10.1214/20-EJS1684 -- [journal](https://doi.org/10.1214/20-EJS1684), [arXiv](https://arxiv.org/abs/1910.01399)
 
 Bittner, D., **TP., M.**, Mattis, S., Wohlmuth, B., & Chiogna, G. (2020).
-Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. _Advances in Water Resources_, _135_, 103472. doi:10.1016/j.advwatres.2019.103472 -- [journal](https://doi.org/10.1016/j.advwatres.2019.103472)
+Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. _Advances in Water Resources_ **135**, 103472. doi:10.1016/j.advwatres.2019.103472 -- [journal](https://doi.org/10.1016/j.advwatres.2019.103472)
 
 ### 2019
 **TP., M.**, Bittner, D., Mattis, S., Chiogna, G., & Wohlmuth, B. (2019).
-Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. _Water Resources Research_, _55_(8), 7086--7107. doi:10.1029/2019WR024739 -- [journal](https://doi.org/10.1029/2019WR024739), [arXiv](https://arxiv.org/abs/1901.03283)
+Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. _Water Resources Research_ **55**(8), 7086--7107. doi:10.1029/2019WR024739 -- [journal](https://doi.org/10.1029/2019WR024739), [arXiv](https://arxiv.org/abs/1901.03283)
 
 **TP., M.**, Mattis, S., Gupta, S., Deusner, C., & Wohlmuth, B. (2019).
 Efficient parameter estimation for a methane hydrate model with active subspaces.
-_Computational Geosciences_, _23_(2), 355--372. doi:10.1007/s10596-018-9769-x -- [journal](https://doi.org/10.1007/s10596-018-9769-x) ([full-text view-only](https://rdcu.be/5oQt)), [arXiv](https://arxiv.org/abs/1801.09499)
+_Computational Geosciences_ **23**(2), 355--372. doi:10.1007/s10596-018-9769-x -- [journal](https://doi.org/10.1007/s10596-018-9769-x) ([full-text view-only](https://rdcu.be/5oQt)), [arXiv](https://arxiv.org/abs/1801.09499)
 
 ### 2016
 **Master thesis**. *Brownian Motion and the Dirichlet Problem*. Ludwig-Maximilians-Universität München (LMU) -- [pdf]({% link assets/files/mthesis.pdf %})
