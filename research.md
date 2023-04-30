@@ -17,10 +17,10 @@ Active subspaces
 --
 
 ### 2023
-**TP., M.**, Brandl, G., Franz, C., Stuhr, U., Ganeva, M., & Schneidewind, A. (2023). Active learning-assisted neutron spectroscopy with log-Gaussian processes. _Nature Communications_ **14**, 2246. doi:10.1038/s41467-023-37418-8 -- [journal](https://www.nature.com/articles/s41467-023-37418-8), [arXiv](https://arxiv.org/abs/2209.00980)
+**TP., M.**, Brandl, G., Franz, C., Stuhr, U., Ganeva, M., & Schneidewind, A. (2023). Active learning-assisted neutron spectroscopy with log-Gaussian processes. _Nature Communications_ **14**, 2246. doi:10.1038/s41467-023-37418-8 -- [journal](https://doi.org/10.1038/s41467-023-37418-8), [arXiv](https://arxiv.org/abs/2209.00980)
 
 ### 2022
-**TP., M.**, Schneidewind, A., Brandl, G., Franz, C., Noack, M., Boehm, M., & Ganeva, M. (2022). Benchmarking autonomous scattering experiments illustrated on TAS. _Frontiers in Materials_ **8**, 772014. doi:10.3389/fmats.2021.772014 -- [journal](https://www.frontiersin.org/articles/10.3389/fmats.2021.772014)
+**TP., M.**, Schneidewind, A., Brandl, G., Franz, C., Noack, M., Boehm, M., & Ganeva, M. (2022). Benchmarking autonomous scattering experiments illustrated on TAS. _Frontiers in Materials_ **8**, 772014. doi:10.3389/fmats.2021.772014 -- [journal](https://doi.org/10.3389/fmats.2021.772014)
 
 ### 2020
 **PhD thesis**. *Active Subspaces in Bayesian Inverse Problems*. Technical University Munich -- [link](https://mediatum.ub.tum.de/?id=1546065)
