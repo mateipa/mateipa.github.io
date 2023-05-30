@@ -12,7 +12,7 @@ date: 2023-04-21
 ---
 
 I am very pleased to announce that our paper on active learning-assisted experiments at three-axes spectrometers was published in [_Nature Communications_](https://www.nature.com/ncomms/).
-Our approach [ARIANE](https://jugit.fz-juelich.de/ainx/ariane), which was designed to assist researchers in the first hours of an experiment and thus to optimize the use of valuable beam time, was already mentioned [here]({% link _posts/2022-09-05-ariane-prepr.md %}) (_v1_) and [here]({% link _posts/2023-01-20-ariane-rev.md %}) (_v2_, revised).
+Our approach [ARIANE](https://ariane.readthedocs.io/), which was designed to assist researchers in the first hours of an experiment and thus to optimize the use of valuable beam time, was already mentioned [here]({% link _posts/2022-09-05-ariane-prepr.md %}) (_v1_) and [here]({% link _posts/2023-01-20-ariane-rev.md %}) (_v2_, revised).
 
 For a summary of our results prepared for a broader audience, we refer to our "[Behind the Paper](https://physicscommunity.nature.com/channels/behind-the-paper)" [blog post](https://physicscommunity.nature.com/posts/towards-ai-assisted-neutron-spectroscopy) in the [Nature Physics community](https://physicscommunity.nature.com).
 
