@@ -1,7 +1,7 @@
 ---
 title: CV
 ---
-A pdf version of my academic CV can be found [here]({% link assets/files/cv.pdf %}).
+A PDF version of my academic CV can be found [here]({% link assets/files/cv.pdf %}).
 
 ## Experience
 **03/2021 -- now**. [University of Applied Sciences Munich](https://www.cs.hm.edu/en/home/index.en.html) (HM), Munich, Germany  
