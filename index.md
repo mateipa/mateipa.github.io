@@ -7,7 +7,7 @@ layout: home
 My name is **Mario Teixeira Parente**.
 This website contains some contents of my academic life.
 
-I am a postdoc in the Data-Driven Discovery (DDD) Group of the [Jülich Centre for Neutron Science](https://www.fz-juelich.de/jcns/EN/Home/home_node.html) (JCNS) outstation within the [Heinz Maier-Leibnitz Zentrum](https://mlz-garching.de/englisch.html) (MLZ) at the neutron source [FRM II](http://www.frm2.tum.de/en/) in Garching near Munich.
+Currently, I am a scientific employee in the Data-Driven Discovery (DDD) Group of the [Jülich Centre for Neutron Science](https://www.fz-juelich.de/jcns/EN/Home/home_node.html) (JCNS) outstation within the [Heinz Maier-Leibnitz Zentrum](https://mlz-garching.de/englisch.html) (MLZ) at the neutron source [FRM II](http://www.frm2.tum.de/en/) in Garching near Munich.
 The focus of my work is the investigation of **machine learning methods** for neutron scattering data.
 
 At the moment, I am also a lecturer at the [Department of Computer Science and Mathematics](https://www.cs.hm.edu/en/home/index.en.html) of the [Munich University of Applied Sciences](https://www.hm.edu/en/index.en.html) (HM).
