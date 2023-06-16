@@ -48,6 +48,8 @@ _Computational Geosciences_ **23**(2), 355--372. doi:10.1007/s10596-018-9769-x -
 **TP., M.** (2018). A probabilistic framework for approximating functions in active subspaces -- [arXiv](https://arxiv.org/abs/1809.06581)
 
 ## Talks, Conferences, etc.
+**Helmholtz AI Conference 2023**. *Active learning-assisted neutron spectroscopy with log-Gaussian processes*. Helmholtz AI, Helmholtz Association. June 2023
+
 **Machine Learning Workshop**. *Active learning-assisted neutron spectroscopy with log-Gaussian processes*. Lawrence Berkeley National Laboratory. April 2023
 
 **ECNS 2023**. *AI-assisted neutron spectroscopy -- Log-Gaussian processes for TAS*. Heinz Maier-Leibnitz Zentrum. March 2023
