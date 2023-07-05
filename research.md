@@ -72,6 +72,8 @@ for Advanced Mathematics for Energy Research Applications, Lawrence Berkeley Nat
 **M2 Oberseminar**. *Active subspaces for Bayesian inversion, Application to a methane hydrate model*. Garching. March 2018 -- [post]({% link _posts/2018-03-03-talk-obersem.md %}), [slides]({% link assets/files/talk-obersem.pdf %})
 
 ## Press / Media
+**Nature Portfolio Instagram**. *Artificial intelligence speeds up material research*. July 2023 -- [link](https://www.instagram.com/p/CuR-yd1NYjF/)
+
 **LENS Science Highlight**. *Efficient Use of Measurement Time Through Machine Learning*. June 2023 -- [link](https://lens-initiative.org/lens-newsletter-7-june-2023/#scihigh)
 
 **MLZ/FRM2 Press release**. *Using measurement time more efficiently with machine learning*. June 2023 -- [link MLZ](https://mlz-garching.de/englisch/news-und-press/news-articles/using-measurement-time-more-efficiently-with-machine-learning.html)/[link FRM2](https://www.frm2.tum.de/en/frm2/news-single-view-en/article/using-measurement-time-more-efficiently-with-machine-learning/)
