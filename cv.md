@@ -4,11 +4,11 @@ title: CV
 A PDF version of my academic CV can be found [here]({% link assets/files/cv.pdf %}).
 
 ## Experience
-**03/2021 -- now**. [University of Applied Sciences Munich](https://www.cs.hm.edu/en/home/index.en.html) (HM). Munich, Germany  
+**03/2021 -- 09/2023**. [University of Applied Sciences Munich](https://www.cs.hm.edu/en/home/index.en.html) (HM). Munich, Germany  
 Lecturer  
 [Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/) and [Linear Algebra](https://zpa.cs.hm.edu/public/module/138/)
 
-**10/2020 -- now**. [Jülich Centre for Neutron Science](https://www.fz-juelich.de/jcns/EN/) (JCNS). Garching near Munich, Germany  
+**10/2020 -- 09/2023**. [Jülich Centre for Neutron Science](https://www.fz-juelich.de/jcns/EN/) (JCNS). Garching near Munich, Germany  
 Postdoctoral researcher  
 Machine learning-based data acquisition of neutron experiments
 
