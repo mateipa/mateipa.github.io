@@ -12,7 +12,7 @@ permalink: teaching
 - Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://static.uni-graz.at/fileadmin/projekte/forschungsnetzwerk-fachdidaktik/Publikationen/Hofer_Ranz_Die_Verzeitlichung_des_Zeitlosen.pdf) -- Didactic text on including historical and genetical aspects in mathematical education (German)
 
 ## Present
-- **Winter 2023/24**: Advanced Mathematical Topics in Statistics, [Optimization for Machine Learning](https://slds-lmu.github.io/website_optimization/). *Substitute Professor*. LMU
+- **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization for Machine Learning](https://slds-lmu.github.io/website_optimization/). *Substitute Professor*. LMU
 
 ## Past
 - **Summer 2023**: [Fundamentals of Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/). *Lecturer*. HM
