@@ -5,7 +5,7 @@ A PDF version of my academic CV can be found [here]({% link assets/files/cv.pdf 
 
 ## Experience
 **10/2023 -- 03/2024**. [Ludwig-Maximilians-Universität München](https://www.lmu.de/en/index.html) (LMU). Munich, Germany  
-Substitute Professor for Computational Statistics and Data Science (W2)  
+Interim Professor for Computational Statistics and Data Science (W2)  
 Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/)
 
 **03/2021 -- 09/2023**. [University of Applied Sciences Munich](https://www.cs.hm.edu/en/home/index.en.html) (HM). Munich, Germany  
