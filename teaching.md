@@ -9,7 +9,7 @@ permalink: teaching
 - [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos), _I want to be a Mathematician: An Automathography_ -- Book
 
 #### Recommendations for lecturers
-- Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://static.uni-graz.at/fileadmin/projekte/forschungsnetzwerk-fachdidaktik/Publikationen/Hofer_Ranz_Die_Verzeitlichung_des_Zeitlosen.pdf) -- Didactic text on including historical and genetical aspects in mathematical education (German)
+- Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://unipub.uni-graz.at/obvugrhs/content/titleinfo/781416) -- Didactic text on including historical aspects in mathematical education (German)
 
 ## Present
 - **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/). *Interim Professor*. LMU
