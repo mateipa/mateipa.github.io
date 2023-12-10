@@ -28,7 +28,7 @@ permalink: teaching
 - **Summer 2018**: [Numerics for ODEs](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NUMODE18). *Tutor*. TUM
 - **Winter 2017/18**: [Introduction to Numerical Linear Algebra](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/NLA17). *Tutor*. TUM
 - **Summer 2017**: [Introduction to Programming](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/Einf%fchrungInDieProgrammierung%28MA8003%29). *Tutor*. TUM
-- **Summer 2017**: [Hauptseminar: Uncertainty Quantification with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/UQSEM). TUM
+- **Summer 2017**: [Seminar: UQ with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/UQSEM). TUM
 - **Winter 2015/16**: Stochastics. *Tutor*. LMU
 - **Winter 2014/15**: Analysis I. *Tutor*. LMU
 - **Winter 2011/12**: Linear Algebra, Software Engineering. *Tutor*. HM
