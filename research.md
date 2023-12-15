@@ -71,6 +71,9 @@ for Advanced Mathematics for Energy Research Applications, Lawrence Berkeley Nat
 
 **M2 Oberseminar**. *Active subspaces for Bayesian inversion, Application to a methane hydrate model*. Garching. March 2018 -- [post]({% link _posts/2018-03-03-talk-obersem.md %}), [slides]({% link assets/files/talk-obersem.pdf %})
 
+## Awards / Prizes
+**Helmholtz AI Award**. *Best Paper 2023*. December 2023
+
 ## Press / Media
 **MLZ Newsletter**. *Machine learning tool assists TAS users*. August 2023 -- [link](https://mlz-garching.de/englisch/news-und-press/brochures-und-films/newsletter/newsletter-i-23.html#machine_learning_tool_assists_tas_users)
 
