@@ -75,6 +75,8 @@ for Advanced Mathematics for Energy Research Applications, Lawrence Berkeley Nat
 **Helmholtz AI Award**. *Best Paper 2023*. December 2023
 
 ## Press / Media
+**Helmholtz AI News**. *Helmholtz AI Awards 2023: Meet Our Awardees*. December 2023 -- [link](https://www.helmholtz.ai/themenmenue/news-events/news/news/article/31648/index.html)
+
 **MLZ Newsletter**. *Machine learning tool assists TAS users*. August 2023 -- [link](https://mlz-garching.de/englisch/news-und-press/brochures-und-films/newsletter/newsletter-i-23.html#machine_learning_tool_assists_tas_users)
 
 **Nature Portfolio Instagram**. *Artificial intelligence speeds up material research*. July 2023 -- [link](https://www.instagram.com/p/CuR-yd1NYjF/)
