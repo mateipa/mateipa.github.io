@@ -11,4 +11,4 @@ I am a Senior Data Scientist at [Entrix](https://www.entrixenergy.com/), a Munic
 
 For more details on my professional path, please see my [CV](/cv.md).
 
-Feel free to rummage around or [subscribe](/feed.xml)! You can find recent posts right below this text.
+Feel free to rummage around! You can find recent posts right below this text.
