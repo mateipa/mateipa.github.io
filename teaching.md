@@ -12,9 +12,10 @@ permalink: teaching
 - Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://unipub.uni-graz.at/obvugrhs/content/titleinfo/781416) -- Didactic text on including historical aspects in mathematical education (German)
 
 ## Present
-- **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/). *Interim Professor*. LMU
+--
 
 ## Past
+- **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/). *Interim Professor*. LMU
 - **Summer 2023**: [Fundamentals of Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/). *Lecturer*. HM
 - **Winter 2022/23**: [Linear Algebra](https://zpa.cs.hm.edu/public/module/138/). *Lecturer*. HM (in cooperation with [Prof. Köster](https://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/koester/index.de.html) and [Prof. Ruckert](https://www.cs.hm.edu/die_fakultaet/ansprechpartner/professoren/ruckert/index.de.html))
 - **Summer 2022**: [Fundamentals of Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/). *Lecturer*. HM
