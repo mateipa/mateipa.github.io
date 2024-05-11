@@ -47,12 +47,12 @@ _Supervisor_: Prof. Dr. Manfred Gruber
 ## Scholarships
 **04/2012 -- 05/2016**. [German Academic Scholarship Foundation](https://www.studienstiftung.de/en) (Studienstiftung des deutschen Volkes)
 
-**04/2012 -- 04/2016**. [Max Weber Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program) (Max Weber-Programm Bayern)
+**04/2012 -- 04/2016**. [Max Weber Program](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program) (Max Weber-Programm Bayern)
 
 **10/2011 -- 03/2012**. [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html)
 
 ## Volunteering
-**10/2021 -- now**. [Max Weber Program of the State of Bavaria](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program). Munich, Germany  
+**10/2021 -- now**. [Max Weber Program](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program). Munich, Germany  
 Mentor for scholarship holders
 
 **2016 -- now**. [German Academic Scholarship Foundation](https://www.studienstiftung.de/en). Germany  
