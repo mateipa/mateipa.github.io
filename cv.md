@@ -4,8 +4,12 @@ title: CV
 A PDF version of my academic CV can be found [here]({% link assets/files/cv.pdf %}).
 
 ## Experience
-**04/2024 -- now**. [Entrix GmbH](https://www.entrixenergy.com/). Munich, Germany  
-Senior Data Scientist    
+**10/2024 -- today**. [Pforzheim University](https://www.hs-pforzheim.de/). Munich, Germany  
+Professor for Mathematics  
+Teaching in applied mathematics
+
+**04/2024 -- 09/2024**. [Entrix GmbH](https://www.entrixenergy.com/). Munich, Germany  
+Senior Data Scientist  
 Optimization, time series analysis
 
 **10/2023 -- 03/2024**. [Ludwig-Maximilians-Universität München](https://www.lmu.de/en/index.html) (LMU). Munich, Germany  
