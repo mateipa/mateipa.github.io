@@ -4,7 +4,7 @@ title: CV
 A PDF version of my academic CV can be found [here]({% link assets/files/cv.pdf %}).
 
 ## Experience
-**10/2024 -- today**. [Pforzheim University](https://www.hs-pforzheim.de/). Munich, Germany  
+**10/2024 -- today**. [Pforzheim University](https://www.hs-pforzheim.de/). Pforzheim, Germany  
 Professor for Mathematics  
 Teaching in applied mathematics
 
