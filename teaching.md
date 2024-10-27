@@ -12,7 +12,7 @@ permalink: teaching
 - Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://unipub.uni-graz.at/obvugrhs/content/titleinfo/781416) -- Didactic text on including historical aspects in mathematical education (German)
 
 ## Present
---
+- **Winter 2024/25**: Linear Algebra 1, Mathematics 1 (for Engineers), Programming in Python. *Professor*. HSPF
 
 ## Past
 - **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/). *Interim Professor*. LMU
