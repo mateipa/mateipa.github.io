@@ -1,17 +1,6 @@
 ---
 title: Research
 ---
-## Interests
-**Bayesian statistics**  
-Bayesian inverse problems --- Gaussian Process Regression
-
-**Uncertainty Quantification**  
-Model parameter estimation --- Sensitivity analysis --- Informed decisions
-
-**Subspace-based dimension reduction**  
-Active subspaces
-
-
 ## Publications
 ### Preprints
 --

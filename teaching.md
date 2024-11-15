@@ -2,15 +2,6 @@
 title: Teaching
 permalink: teaching
 ---
-
-#### Recommendations for students
-- [terrytao.wordpress.com](https://terrytao.wordpress.com/) -- Blog of [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao), a great mathematician and Fields medalist
-- [almostsure.wordpress.com](https://almostsure.wordpress.com/) -- Blog on [stochastic calculus](https://en.wikipedia.org/wiki/Stochastic_calculus)
-- [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos), _I want to be a Mathematician: An Automathography_ -- Book
-
-#### Recommendations for lecturers
-- Gabriel Hofer-Ranz, [_Die Verzeitlichung des Zeitlosen_](https://unipub.uni-graz.at/obvugrhs/content/titleinfo/781416) -- Didactic text on including historical aspects in mathematical education (German)
-
 ## Present
 - **Winter 2024/25**: Linear Algebra 1, Mathematics 1 (for Engineers), Programming in Python. *Professor*. HSPF
 
