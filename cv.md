@@ -56,9 +56,9 @@ _Supervisor_: Prof. Dr. Manfred Gruber
 **10/2011 -- 03/2012**. [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html)
 
 ## Volunteering
-**10/2021 -- now**. [Max Weber Program](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program). Munich, Germany  
+**10/2021 -- 09/2024**. [Max Weber Program](https://www.elitenetzwerk.bayern.de/en/home/funding-programs/max-weber-program). Munich, Germany  
 Mentor for scholarship holders
 
-**2016 -- now**. [German Academic Scholarship Foundation](https://www.studienstiftung.de/en). Germany  
+**2016 -- 2021**. [German Academic Scholarship Foundation](https://www.studienstiftung.de/en). Germany  
 Committee member for admissions seminars
 
