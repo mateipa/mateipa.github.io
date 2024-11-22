@@ -66,7 +66,7 @@ for Advanced Mathematics for Energy Research Applications, Lawrence Berkeley Nat
 ## Press / Media
 **JCNS News**. *"Best Paper Award" from Helmholtz AI*. February 2024 -- [link](https://www.fz-juelich.de/en/jcns/news/announcements/2024/best-paper-award-from-helmholtz-ai)
 
-**Helmholtz AI News**. *Helmholtz AI Awards 2023: Meet Our Awardees*. December 2023 -- [link](https://www.helmholtz.ai/themenmenue/news-events/news/news/article/31648/index.html)
+**Helmholtz AI News**. *Helmholtz AI Awards 2023: Meet Our Awardees*. December 2023 -- [link](https://www2.helmholtz.ai/themenmenue/news/news/news/article/31648/index.html)
 
 **MLZ Newsletter**. *Machine learning tool assists TAS users*. August 2023 -- [link](https://mlz-garching.de/englisch/news-und-press/brochures-und-films/newsletter/newsletter-i-23.html#machine_learning_tool_assists_tas_users)
 
