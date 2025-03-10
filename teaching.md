@@ -3,9 +3,10 @@ title: Teaching
 permalink: teaching
 ---
 ## Present
-- **Winter 2024/25**: Linear Algebra 1, Mathematics 1 (for Engineers), Programming in Python. *Professor*. HSPF
+- **Summer 2025**: Calculus 2, Linear Algebra 2, Mathematics 2 (for Engineers). *Professor*. HSPF
 
 ## Past
+- **Winter 2024/25**: Linear Algebra 1, Mathematics 1 (for Engineers), Programming in Python. *Professor*. HSPF
 - **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/). *Interim Professor*. LMU
 - **Summer 2023**: [Fundamentals of Uncertainty Quantification](https://zpa.cs.hm.edu/public/module/374/). *Lecturer*. HM
 - **Winter 2022/23**: [Linear Algebra](https://zpa.cs.hm.edu/public/module/138/). *Lecturer*. HM (in cooperation with [Prof. Köster](https://hm.edu/kontakte_de/contact_detail_3593.de.html) and [Prof. Ruckert](https://hm.edu/kontakte_de/contact_detail_695.de.html))
@@ -22,7 +23,7 @@ permalink: teaching
 - **Summer 2017**: [Introduction to Programming](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/Einf%fchrungInDieProgrammierung%28MA8003%29). *Tutor*. TUM
 - **Summer 2017**: [Seminar: UQ with Efficient Monte Carlo Methods](https://www-m2.ma.tum.de/bin/view/M2/Allgemeines/UQSEM). TUM
 - **Winter 2015/16**: Stochastics. *Tutor*. LMU
-- **Winter 2014/15**: Analysis I. *Tutor*. LMU
+- **Winter 2014/15**: Calculus I. *Tutor*. LMU
 - **Winter 2011/12**: Linear Algebra, Software Engineering. *Tutor*. HM
 
 ## Certificates
