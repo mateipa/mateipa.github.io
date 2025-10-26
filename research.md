@@ -5,6 +5,9 @@ title: Research
 ### Preprints
 --
 
+### 2025
+**TP., M.** (2025). Nicht-algebraische Didaktik nicht-diagonalisierbarer Matrizen -- [arXiv](https://arxiv.org/abs/2510.15933)
+
 ### 2023
 **TP., M.**, Brandl, G., Franz, C., Stuhr, U., Ganeva, M., & Schneidewind, A. (2023). Active learning-assisted neutron spectroscopy with log-Gaussian processes. _Nature Communications_ **14**, 2246. doi:10.1038/s41467-023-37418-8 -- [journal](https://doi.org/10.1038/s41467-023-37418-8), [arXiv](https://arxiv.org/abs/2209.00980)
 
