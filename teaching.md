@@ -3,9 +3,11 @@ title: Teaching
 permalink: teaching
 ---
 ## Present
-**Winter 2025/26**: Linear Algebra 1, Mathematics 1 (for Engineers), Fundamentals of Signal Processing, Stochastics, Programming in Python. *Professor*. HSPF
+**Winter 2026/27**: Linear Algebra 1, Mathematics 1 (for Engineers), Programming in Python, Advanced Programming in Python, Advanced Numerics for Engineers. *Professor*. HSPF
 
 ## Past
+- **Summer 2026**: Calculus 2, Linear Algebra 2, Mathematics 2 (for Engineers), Programming in Python. *Professor*. HSPF
+- **Winter 2025/26**: Linear Algebra 1, Mathematics 1 (for Engineers), Fundamentals of Signal Processing, Stochastics, Programming in Python. *Professor*. HSPF
 - **Summer 2025**: Calculus 2, Linear Algebra 2, Mathematics 2 (for Engineers). *Professor*. HSPF
 - **Winter 2024/25**: Linear Algebra 1, Mathematics 1 (for Engineers), Programming in Python. *Professor*. HSPF
 - **Winter 2023/24**: Advanced Mathematical Methods in Statistics, [Optimization in Machine Learning](https://slds-lmu.github.io/website_optimization/). *Interim Professor*. LMU
